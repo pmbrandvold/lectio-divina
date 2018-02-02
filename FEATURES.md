@@ -19,3 +19,4 @@
 
 * Streak Tracker
 * Daily reminder
+* Bible Translations
